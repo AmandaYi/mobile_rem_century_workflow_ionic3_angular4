@@ -1,7 +1,7 @@
 ---
     title: REM时代(mobile_rem_century_workflow_ionic3_angular4)
     desc: 在ionic3.x+和angular4.x+配合下的rem布局时代,亲们觉得好用就star我的吧
-    author: 赵哲云
+    author: 七月
 ---
 
 ## 声明,该REM时代设计思路,可以在任何的地方使用
